@@ -29,4 +29,4 @@ run the following lines of code in root directory
 5. Create folder name `Payload`.
 6. Paste `.app` file into `Payload` folder.
 7. Compress the `Payload` folder.
-8. rename the folder with `.ipa` extension.
+8. Rename the file with `.ipa` extension.
