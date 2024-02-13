@@ -5,7 +5,7 @@ A clone of IGN mobile app with infinite scroll, fetching data from IGN's api and
 _Note: This app is only built for ios, it may not function as intended for android_
 
 # Previews
-- [Preview Video](https://streamable.com/8weee)
+- ![](/images/Preview.gif)
 - [Videos Page](/images/Videos.png)
 - [Articles Page](/images/Articles.png)
 
